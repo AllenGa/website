@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Allen Gao</title>
-    <link>https://allengao.ca/</link>
+    <link>https://allenga.github.io/first_website/</link>
     <description>Recent content on Allen Gao</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://allengao.ca/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://allenga.github.io/first_website/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
